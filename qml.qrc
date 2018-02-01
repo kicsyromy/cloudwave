@@ -1,0 +1,37 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/main.qml</file>
+        <file>ui/components/FlowView.qml</file>
+        <file>ui/delegates/AlbumDelegate.qml</file>
+        <file>ui/delegates/AlbumDelegateStyle.qml</file>
+        <file>ui/delegates/ArtistDelegateStyle.qml</file>
+        <file>ui/delegates/ArtistDelegate.qml</file>
+        <file>ui/components/ListView.qml</file>
+        <file>ui/delegates/TrackDelegate.qml</file>
+        <file>ui/delegates/GenreDelegate.qml</file>
+        <file>ui/resources/artist_missing.png</file>
+        <file>ui/resources/album_missing.png</file>
+        <file>ui/delegates/TrackDelegateStyle.qml</file>
+        <file>ui/pages/MainPage.qml</file>
+        <file>ui/views/TracksView.qml</file>
+        <file>ui/views/GenresView.qml</file>
+        <file>ui/views/ArtistsView.qml</file>
+        <file>ui/views/AlbumsView.qml</file>
+        <file>ui/pages/AlbumDetails.qml</file>
+        <file>ui/pages/GenreDetails.qml</file>
+        <file>ui/pages/ArtistDetails.qml</file>
+        <file>ui/resources/shuffle.png</file>
+        <file>ui/resources/play_arrow.png</file>
+        <file>ui/components/Spinner.qml</file>
+        <file>ui/components/ButtonWithIcon.qml</file>
+        <file>ui/pages/Playlist.qml</file>
+        <file>ui/components/Footer.qml</file>
+        <file>ui/resources/pause.png</file>
+        <file>ui/resources/scope.gif</file>
+        <file>ui/components/Scope.qml</file>
+        <file>ui/resources/previous.png</file>
+        <file>ui/resources/next.png</file>
+        <file>ui/components/PullToRefresh.qml</file>
+        <file>ui/resources/refresh.png</file>
+    </qresource>
+</RCC>
